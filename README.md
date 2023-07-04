@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Artyom
 - 👀 I’m interested in Data Science 
-- 📫 How to reach me t.me/Moye_Tulovishe
+- 📫 How to reach me t.me/MoyeTulovishe
 
 <!---
 LyudiRabotayut/LyudiRabotayut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
